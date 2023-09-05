@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ahmed El Mmetwally
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Vue
-- 💞️ I’m looking to collaborate on Nothing atm
+- 🌱 I’m currently learning Vue, React, and Node.js
+- 💞️ I’m looking to collaborate on Nothing ATM
 - 📫 How to reach me AhmedMAlmetwally@gmail.com
 
 <!---
